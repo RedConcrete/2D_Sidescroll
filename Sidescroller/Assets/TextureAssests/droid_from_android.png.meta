@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 3325954ab0473b54280bb319e290b29d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -154451813683766923
+    second: droid_from_android_0
+  - first:
+      213: 959493488061912398
+    second: droid_from_android_1
+  - first:
+      213: -1319862140745381152
+    second: droid_from_android_2
+  - first:
+      213: 3379560780238396476
+    second: droid_from_android_3
+  - first:
+      213: 8407092797113387813
+    second: droid_from_android_4
+  - first:
+      213: -5940274253279058474
+    second: droid_from_android_5
+  - first:
+      213: -8170253277688459536
+    second: droid_from_android_6
+  - first:
+      213: 6675199520039018268
+    second: droid_from_android_7
+  - first:
+      213: 9196496356287417979
+    second: droid_from_android_8
+  - first:
+      213: -680326816292097753
+    second: droid_from_android_9
+  - first:
+      213: -7606468070030910141
+    second: droid_from_android_10
+  - first:
+      213: 7417544185564364160
+    second: droid_from_android_11
+  - first:
+      213: -6477370181012074882
+    second: droid_from_android_12
+  - first:
+      213: 5391131737318088151
+    second: droid_from_android_13
+  - first:
+      213: -5488295740991512378
+    second: droid_from_android_14
+  - first:
+      213: 5399702528002683872
+    second: droid_from_android_15
+  - first:
+      213: 8234302870818639284
+    second: droid_from_android_16
+  - first:
+      213: -2997194307696252879
+    second: droid_from_android_17
+  - first:
+      213: -650966813086585827
+    second: droid_from_android_18
+  - first:
+      213: 5383274735107452355
+    second: droid_from_android_19
+  - first:
+      213: -4651272074837750342
+    second: droid_from_android_20
+  - first:
+      213: -4138830970317511329
+    second: droid_from_android_21
+  - first:
+      213: 2738465253239122462
+    second: droid_from_android_22
+  - first:
+      213: 7527741896018594018
+    second: droid_from_android_23
+  - first:
+      213: 656802322912095882
+    second: droid_from_android_24
+  - first:
+      213: -5169926689024085176
+    second: droid_from_android_25
+  - first:
+      213: -6043344816723977135
+    second: droid_from_android_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: droid_from_android_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 641
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579d67ec4e64bddf0800000000000000
+      internalID: -154451813683766923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 641
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e451b386e3ec05d00800000000000000
+      internalID: 959493488061912398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 641
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea826c3068eeade0800000000000000
+      internalID: -1319862140745381152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 561
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c93fabf9c96ee20800000000000000
+      internalID: 3379560780238396476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 561
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b40b53b5efba470800000000000000
+      internalID: 8407092797113387813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 561
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d527e02a08ef8da0800000000000000
+      internalID: -5940274253279058474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 481
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe886a8eed6d9e80800000000000000
+      internalID: -8170253277688459536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 482
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f98c4c89213ac50800000000000000
+      internalID: 6675199520039018268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 480
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e8faef5b480af70800000000000000
+      internalID: 9196496356287417979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 401
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721bcb77d5efe86f0800000000000000
+      internalID: -680326816292097753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 402
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd4725795607690800000000000000
+      internalID: -7606468070030910141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 402
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08df35e032960f660800000000000000
+      internalID: 7417544185564364160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 321
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e41129322cb16a0800000000000000
+      internalID: -6477370181012074882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dddd2c60c521da40800000000000000
+      internalID: 5391131737318088151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 321
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c069ef0a18a5d3b0800000000000000
+      internalID: -5488295740991512378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 241
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3f06227d89fea40800000000000000
+      internalID: 5399702528002683872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 241
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdcf1475de164270800000000000000
+      internalID: 8234302870818639284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 241
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13821fe28a3d766d0800000000000000
+      internalID: -2997194307696252879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce769e12d47f6f0800000000000000
+      internalID: -650966813086585827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 166
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd2a6a89db35ba40800000000000000
+      internalID: 5383274735107452355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 161
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd0a9101bc537fb0800000000000000
+      internalID: -4651272074837750342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 81
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55e6d4392bef86c0800000000000000
+      internalID: -4138830970317511329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 85
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a611983abf00620800000000000000
+      internalID: 2738465253239122462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 82
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e88309ee59e77860800000000000000
+      internalID: 7527741896018594018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea3d89b3e6d1900800000000000000
+      internalID: 656802322912095882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84378e9511bb048b0800000000000000
+      internalID: -5169926689024085176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid_from_android_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c18ff78e9b12ca0800000000000000
+      internalID: -6043344816723977135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
